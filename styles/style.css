@@ -7,14 +7,14 @@ body {
     display: flex;
     align-items: stretch;
     flex-direction: row;
-    height: calc(100vh - 162px);
+    height: calc(100vh - 162px); 
     
     
 }
 }
 .contanier1 div{
     padding: 10px;
-    border: 1px solid silver;
+    border: 1px solid silver; 
 
 }
 .header{
